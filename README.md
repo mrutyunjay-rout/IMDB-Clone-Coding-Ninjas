@@ -38,11 +38,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/IMDB-Clone-Coding-Ninjas/
+Check out the live demo of the application at https://mrutyunjay-rout.github.io/IMDB-Clone-Coding-Ninjas/
 
 ## Authors
 
-- [@imsahadeb](https://github.com/imsahadeb)
+- [@imsahadeb](https://github.com/mrutyunjay-rout)
 
 ## License
 
