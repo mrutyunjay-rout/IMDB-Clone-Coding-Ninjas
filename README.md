@@ -42,7 +42,7 @@ Check out the live demo of the application at https://mrutyunjay-rout.github.io/
 
 ## Authors
 
-- [@imsahadeb](https://github.com/mrutyunjay-rout)
+- [@mrutyunjay-rout](https://github.com/mrutyunjay-rout)
 
 ## License
 
